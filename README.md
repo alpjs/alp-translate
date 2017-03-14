@@ -1,5 +1,7 @@
 # alp-translate [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-translate.svg)](https://greenkeeper.io/)
+
 Translation in alp framework
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
